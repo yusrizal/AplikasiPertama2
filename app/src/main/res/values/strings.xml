@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AplikasiPertama</string>
+
+    <string name="hello_world">Hello yori!!!</string>
+    <string name="apakabar_dunia">apa kabar yori!!!</string>
+    <string name="peuhaba_donya">Peu haba yori!!!</string>
+    <string name="tombol_terjemahanInd">Terjemahkan</string>
+    <string name="tombol_terjemahanEng">Translate</string>
+    <string name="tombol_terjemahanAch">ArtiJih</string>
+    <string name="action_settings">Settings</string>
+</resources>
